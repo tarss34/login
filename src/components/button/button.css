@@ -1,0 +1,15 @@
+.button{
+    outline: none;
+    width: max-content;
+    background-color: black;
+    color: white;
+    box-sizing: border-box;
+    padding: 10px;
+    font-size: 15px;
+    cursor: pointer;
+    transition: all 0.5s ease;
+}
+
+.button:hover{
+    background-color: rgb(108, 106, 106);
+}
